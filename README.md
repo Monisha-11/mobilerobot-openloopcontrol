@@ -71,7 +71,7 @@ if _name_ == '_main_':
 
 STARTING PONT:-
 
-![robo](./img/OUTPUT1.JPEG)
+![robo](./img/OUTPUT1.jpeg)
 
 ENDING POINT:-
 
