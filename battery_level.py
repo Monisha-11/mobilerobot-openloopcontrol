@@ -5,7 +5,7 @@ def sub_info_handler(batter_info, ep_robot):
     percent = batter_info
     print("Battery: {0}%.".format(percent))
 
-if __name__ == '__main__':
+if _name_ == '_main_':
     ep_robot = robot.Robot()
     ep_robot.initialize(conn_type="ap")
 
