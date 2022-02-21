@@ -10,7 +10,7 @@ To develop a python control code to move the mobilerobot along the predefined pa
 ## Procedure
 
 ### Step 1:
-Initiate the MobileRobot.
+Initiate the MobileRobot
 
 ### Step 2:
 Connect your PC with the MobileRobot.
